@@ -11,6 +11,6 @@ public class Main {
 	}
 	private static void displayGreetings()
 	{
-		System.out.println("Welcome");
+		System.out.println("Welcome ......");
 	}
 }
